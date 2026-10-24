@@ -22,12 +22,23 @@ MODOS = {
 }
 MAX_ARMAS_POR_MODO = 15          # META + A hasta este tope
 TIERS_INCLUIDOS = ("META", "A")
+MAX_BYTES = 8 * 1024 * 1024      # tope por respuesta (defensa upstream comprometido)
+MAX_TXT = 120                    # tope por string emitido
+MAX_ACC = 12                     # tope de accesorios por build
 
 
 def get(url, timeout=30):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", "replace")
+        data = r.read(MAX_BYTES + 1)
+        if len(data) > MAX_BYTES:
+            raise ValueError(f"respuesta >{MAX_BYTES} bytes: {url}")
+        return data.decode("utf-8", "replace")
+
+
+def txt(v):
+    """Solo strings acotados; cualquier otra cosa -> None."""
+    return v[:MAX_TXT] if isinstance(v, str) else None
 
 
 def main():
@@ -79,20 +90,22 @@ def main():
                     continue
                 time.sleep(1.2)  # cortesia
                 build = builds[0] if builds else None
+                raw_acc = (build.get("attachments") if isinstance(build, dict) else []) or []
                 acc = [
-                    {"slot": a.get("slot"), "nombre": a.get("name")}
-                    for a in (build.get("attachments") if build else []) or []
+                    {"slot": txt(a.get("slot")), "nombre": txt(a.get("name"))}
+                    for a in raw_acc[:MAX_ACC]
+                    if isinstance(a, dict) and txt(a.get("name"))
                 ]
                 if not acc:
                     continue  # sin build publicado: no sirve como loadout
                 t = w.get("type") or {}
                 pr = w.get("pickRate")
                 lista.append({
-                    "id": w["id"],
-                    "nombre": w.get("name"),
-                    "tipo": t.get("name"),
-                    "tipo_full": t.get("fullName"),
-                    "categoria": w.get("category"),
+                    "id": txt(str(w["id"])),
+                    "nombre": txt(w.get("name")),
+                    "tipo": txt(t.get("name")),
+                    "tipo_full": txt(t.get("fullName")),
+                    "categoria": txt(w.get("category")),
                     "tier": tier,
                     "nueva": bool(w.get("isNew")),
                     # wzstats a veces publica pickRate en 0 para todas (campo apagado): solo si >0
