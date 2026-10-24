@@ -13,6 +13,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -43,6 +45,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -73,6 +77,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -103,6 +109,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -133,6 +141,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -163,6 +173,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -193,6 +205,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -223,6 +237,8 @@
      "tipo_full": "LMG",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -253,6 +269,8 @@
      "tipo_full": "Sniper",
      "categoria": "Sniper",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -283,6 +301,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -313,6 +333,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -343,6 +365,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "optic",
@@ -385,6 +409,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "underbarrel",
@@ -415,6 +441,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "muzzle",
@@ -445,6 +473,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -480,6 +510,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -510,6 +542,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -540,6 +574,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -570,6 +606,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -600,6 +638,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -630,6 +670,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -660,6 +702,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "underbarrel",
@@ -690,6 +734,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -720,6 +766,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -750,6 +798,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -780,6 +830,8 @@
      "tipo_full": "SMG",
      "categoria": "Close range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "firemods",
@@ -810,6 +862,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "barrel",
@@ -840,6 +894,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "muzzle",
@@ -870,6 +926,8 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",
@@ -900,6 +958,505 @@
      "tipo_full": "Assault Rifle",
      "categoria": "Long range",
      "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "stock",
+       "nombre": "ADS MOVEMENT STOCK"
+      },
+      {
+       "slot": "underbarrel",
+       "nombre": "MOBILE RECOIL FOREGRIP"
+      },
+      {
+       "slot": "optic",
+       "nombre": "2X OPTIC"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "FIREPOWER SUPPRESSOR"
+      }
+     ]
+    }
+   ]
+  },
+  "ironGauntlet": {
+   "nombre": "Iron Gauntlet",
+   "armas": [
+    {
+     "id": "m15-mod-0",
+     "nombre": "M15 MOD 0",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "firemods",
+       "nombre": "HIGH-VELOCITY AMMO"
+      },
+      {
+       "slot": "stock",
+       "nombre": "CONTROL STOCK"
+      },
+      {
+       "slot": "optic",
+       "nombre": "3X OPTIC"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      }
+     ]
+    },
+    {
+     "id": "rev-46",
+     "nombre": "REV-46",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      },
+      {
+       "slot": "stock",
+       "nombre": "FLIP STOCK"
+      },
+      {
+       "slot": "optic",
+       "nombre": "MINI REFLEX 01"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "SUPPRESSOR"
+      }
+     ]
+    },
+    {
+     "id": "kogot-7",
+     "nombre": "KOGOT-7",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "firemods",
+       "nombre": "RAPID FIRE"
+      },
+      {
+       "slot": "stock",
+       "nombre": "MOBILITY STOCK"
+      },
+      {
+       "slot": "rearGrip",
+       "nombre": "SPRINT TO FIRE GRIP"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "laser",
+       "nombre": "STEADY AIM LASER"
+      }
+     ]
+    },
+    {
+     "id": "ak-27",
+     "nombre": "AK-27",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "barrel",
+       "nombre": "MID RANGE BARREL"
+      },
+      {
+       "slot": "optic",
+       "nombre": "2X OPTIC"
+      },
+      {
+       "slot": "underbarrel",
+       "nombre": "Mobile Recoil Foregrip"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "SUPPRESSOR"
+      }
+     ]
+    },
+    {
+     "id": "ryden-45k",
+     "nombre": "RYDEN 45K",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "firemods",
+       "nombre": "RAPID FIRE"
+      },
+      {
+       "slot": "stock",
+       "nombre": "MOBILITY STOCK"
+      },
+      {
+       "slot": "rearGrip",
+       "nombre": "SPRINT TO FIRE GRIP"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "laser",
+       "nombre": "STEADY AIM LASER"
+      }
+     ]
+    },
+    {
+     "id": "maddox-rfb",
+     "nombre": "MADDOX RFB",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "stock",
+       "nombre": "CONTROL STOCK"
+      },
+      {
+       "slot": "firemods",
+       "nombre": "HIGH-VELOCITY AMMO"
+      },
+      {
+       "slot": "optic",
+       "nombre": "3X OPTIC"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      }
+     ]
+    },
+    {
+     "id": "carbon-57",
+     "nombre": "CARBON 57",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "stock",
+       "nombre": "CONTROL STOCK"
+      },
+      {
+       "slot": "optic",
+       "nombre": "2X OPTIC"
+      },
+      {
+       "slot": "rearGrip",
+       "nombre": "ACCURACY GRIP"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "MID RANGE BARREL"
+      }
+     ]
+    },
+    {
+     "id": "mk78",
+     "nombre": "MK.78",
+     "tipo": "LMG",
+     "tipo_full": "LMG",
+     "categoria": "Long range",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "firemods",
+       "nombre": "HIGH-VELOCITY AMMO"
+      },
+      {
+       "slot": "underbarrel",
+       "nombre": "RECOIL CONTROL FOREGRIP"
+      },
+      {
+       "slot": "optic",
+       "nombre": "3X OPTIC"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "COMPENSATOR"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      }
+     ]
+    },
+    {
+     "id": "vs-recon",
+     "nombre": "VS RECON",
+     "tipo": "Sniper",
+     "tipo_full": "Sniper",
+     "categoria": "Sniper",
+     "tier": "META",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "firemods",
+       "nombre": "RAPID FIRE"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "MUZZLE BRAKE"
+      },
+      {
+       "slot": "underbarrel",
+       "nombre": "STEADY SWAY HANDGUARD"
+      },
+      {
+       "slot": "stock",
+       "nombre": "FLINCH RESIST PAD"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "Bullet Velocity Barrel"
+      }
+     ]
+    },
+    {
+     "id": "razor-9mm",
+     "nombre": "RAZOR 9MM",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      },
+      {
+       "slot": "stock",
+       "nombre": "ADS MOVEMENT PAD"
+      },
+      {
+       "slot": "optic",
+       "nombre": "MINI REFLEX 03"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "SUPPRESSOR"
+      }
+     ]
+    },
+    {
+     "id": "ds20-mirage",
+     "nombre": "DS20 MIRAGE",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "barrel",
+       "nombre": "MID RANGE BARREL"
+      },
+      {
+       "slot": "stock",
+       "nombre": "ADS MOVEMENT STOCK"
+      },
+      {
+       "slot": "optic",
+       "nombre": "TARGET FINDER"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "SUPPRESSOR"
+      }
+     ]
+    },
+    {
+     "id": "dravec-45",
+     "nombre": "DRAVEC 45",
+     "tipo": "SMG",
+     "tipo_full": "SMG",
+     "categoria": "Close range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "optic",
+       "nombre": "REFLEX 04"
+      },
+      {
+       "slot": "laser",
+       "nombre": "MOBILE RANGE LASER+"
+      },
+      {
+       "slot": "firemods",
+       "nombre": "HIGH-VELOCITY AMMO"
+      },
+      {
+       "slot": "rearGrip",
+       "nombre": "QUICKDRAW GRIP"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "COMPENSATOR"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG I"
+      },
+      {
+       "slot": "stock",
+       "nombre": "MOBILITY STOCK"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      }
+     ]
+    },
+    {
+     "id": "peacekeeper-mk1",
+     "nombre": "PEACEKEEPER MK1",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "underbarrel",
+       "nombre": "MOBILE RECOIL FOREGRIP"
+      },
+      {
+       "slot": "optic",
+       "nombre": "MILLIMETER SCANNER"
+      },
+      {
+       "slot": "stock",
+       "nombre": "ADS MOVEMENT STOCK"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "muzzle",
+       "nombre": "FIREPOWER SUPPRESSOR"
+      }
+     ]
+    },
+    {
+     "id": "egrt-17",
+     "nombre": "EGRT-17",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
+     "accesorios": [
+      {
+       "slot": "muzzle",
+       "nombre": "COMPENSATOR"
+      },
+      {
+       "slot": "stock",
+       "nombre": "CONTROL STOCK"
+      },
+      {
+       "slot": "optic",
+       "nombre": "DUAL ZOOM SCOPE"
+      },
+      {
+       "slot": "magazine",
+       "nombre": "EXTENDED MAG II"
+      },
+      {
+       "slot": "barrel",
+       "nombre": "LONG BARREL"
+      }
+     ]
+    },
+    {
+     "id": "mxr-17",
+     "nombre": "MXR-17",
+     "tipo": "AR",
+     "tipo_full": "Assault Rifle",
+     "categoria": "Long range",
+     "tier": "A",
+     "nueva": false,
+     "pick_rate": null,
      "accesorios": [
       {
        "slot": "stock",

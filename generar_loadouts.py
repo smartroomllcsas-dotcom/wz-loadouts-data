@@ -18,6 +18,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) wzcontrol-loadout
 MODOS = {
     "blackOpsRoyale": "Battle Royale",
     "rankedResurgence": "Resurgence Ranked",
+    "ironGauntlet": "Iron Gauntlet",
 }
 MAX_ARMAS_POR_MODO = 15          # META + A hasta este tope
 TIERS_INCLUIDOS = ("META", "A")
@@ -85,6 +86,7 @@ def main():
                 if not acc:
                     continue  # sin build publicado: no sirve como loadout
                 t = w.get("type") or {}
+                pr = w.get("pickRate")
                 lista.append({
                     "id": w["id"],
                     "nombre": w.get("name"),
@@ -92,6 +94,9 @@ def main():
                     "tipo_full": t.get("fullName"),
                     "categoria": w.get("category"),
                     "tier": tier,
+                    "nueva": bool(w.get("isNew")),
+                    # wzstats a veces publica pickRate en 0 para todas (campo apagado): solo si >0
+                    "pick_rate": round(pr, 1) if isinstance(pr, (int, float)) and pr > 0 else None,
                     "accesorios": acc,
                 })
         if not lista:
